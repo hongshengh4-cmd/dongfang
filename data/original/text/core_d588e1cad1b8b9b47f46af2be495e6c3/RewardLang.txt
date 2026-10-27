@@ -1,0 +1,4 @@
+id	content
+Recipe	菜谱：$a
+Money	报酬¥$a
+Izakaya	解锁$a

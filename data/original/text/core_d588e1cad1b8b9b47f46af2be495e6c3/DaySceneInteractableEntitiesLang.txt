@@ -1,0 +1,14 @@
+ID	NAME
+LostBook_Clue	在村口的借书屋到龙神像的路上寻找线索
+Jade_Clue	在龙神像的附近寻找线索
+ChickenHair_Clue	在鸡窝附近寻找线索
+Lantern_A	为夜雀小屋旁的灯架挂上灯笼
+Lantern_B	为桥头的灯架挂上灯笼
+Lantern_C	为兽道东北侧通向博丽神社路口的灯架挂上灯笼
+Lantern_D	为兽道西侧通向人间之里路口的灯架挂上灯笼
+Lantern_E	为兽道东南侧通向迷途竹林路口的灯架挂上灯笼
+Bottle_A	调查可疑的瓶子A
+Bottle_B	调查可疑的瓶子B
+Bottle_C	调查可疑的瓶子C
+Mansion_Ice	调查冻结的湖面
+DLC4_ShiningNeedleCastle_Bowl	前往辉针城调查碗之后的宝物

@@ -1,0 +1,7 @@
+Enum	Name	
+Empty	空桌	
+Pot	煮锅	
+Grill	烤架	
+Fryer	油锅	
+Steamer	蒸锅	
+CuttingBoard	料理台	

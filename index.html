@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="theme-color" content="#171523">
+  <title>东方夜雀食堂 · v4.4.0e</title>
+  <link rel="stylesheet" href="./src/style.css?v=20261027-fatalfix">
+</head>
+<body>
+  <div class="ambient" aria-hidden="true"></div>
+  <div id="stage-frame">
+    <main id="stage" role="application" aria-label="东方夜雀食堂">
+      <section id="screen" aria-live="polite">
+        <section class="scene loading-scene"><div class="loading-mark">页面正在载入…</div></section>
+      </section>
+      <div id="toast" class="toast" role="status" aria-live="assertive"></div>
+      <div id="fatal" class="fatal" hidden></div>
+    </main>
+  </div>
+  <script>
+    setTimeout(() => {
+      const mark = document.querySelector("#screen .loading-mark");
+      if (mark) mark.textContent = "页面初始化未完成，请刷新预览。";
+    }, 8000);
+  </script>
+  <script type="module" src="./src/app.js?v=20261027-blackfix"></script>
+</body>
+</html>

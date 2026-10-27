@@ -1,0 +1,16 @@
+id	content
+BillRepayment	在还款日结束之时还清 $a¥的债务
+TalkWithCharacter	与$a交谈
+SubmitItem	交付 $a$b
+ServeInWork	在营业中请$a品尝一下$b
+SubmitByTag	交付 $a个包含「$b」属性的$c
+SellInWork	在营业中售卖$a ($b)
+SubmitByTags	交付 $a个包含「$b」属性的$c
+SubmitByIngredients	交付 $a个包含「$b」食材的$c
+CompleteSpecifiedFollowingTasks	完成以下任务中的$a个：
+CompleteSpecifiedFollowingTasksSubCondition	$a
+ReachTargetCharacterKisunaLevel	与$a的羁绊等级达到$b
+FakeMission	$a
+SubmitByAnyOneTag	交付 $a个「$b」属性中任意一个的$c
+CompleteSpecifiedFollowingEvents	完成以下事件中至少$a个：
+SubmitByLevel	交付 $a个等级至少为$b的$c

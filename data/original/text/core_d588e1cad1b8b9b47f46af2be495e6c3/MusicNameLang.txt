@@ -1,0 +1,19 @@
+ID	NAME	ORIGINAL	COMPOSEER
+BeastForest_1	妖怪兽道-静夜伊始	夜雀の歌声 ~ Night Bird	Hannari
+BeastForest_2	妖怪兽道-红灯绿酒	夜雀の歌声 ~ Night Bird	Hannari
+BeastForest_3	妖怪兽道-千客万来	夜雀の歌声 ~ Night Bird / もう歌しか聞こえない / 蠢々秋月 ~ Mooned Insect	Hannari
+HumanVillage_1	人间之里-三五成群	懐かしき東方の血 ~ Old World	Hannari
+HumanVillage_2	人间之里-接踵而至	懐かしき東方の血 ~ Old World / 夜雀の歌声 ~ Night Bird	Hannari
+HumanVillage_3	人间之里-人山人海	懐かしき東方の血 ~ Old World / 夜雀の歌声 ~ Night Bird / プレインエイジア	Hannari
+HakureiShrine_1	博丽神社-惊闻客来	少女绮想曲 / 夜雀の歌声 ~ Night Bird	Hannari
+HakureiShrine_2	博丽神社-稀客盈门	少女绮想曲 / 少女幻葬 ~ Necro-Fantasy	Hannari
+HakureiShrine_3	博丽神社-座无虚席	少女绮想曲 / 月見草 / 永夜の報い ~ Imperishable Night	Hannari
+ScarletMansion_1	红魔馆-饮酒品肴	上海紅茶館	Hannari
+ScarletMansion_2	红魔馆-色味共赏	上海紅茶館	Hannari
+ScarletMansion_3	红魔馆-遂心快意	上海紅茶館 / 亡き王女の為のセプテット / U.N.オーエンは彼女なのか？	Hannari
+BambooForest_1	迷途竹林-偶有客至	シンデレラケージ ~ Kagome-Kagome / 狂気の瞳 ~ Invisible Full Moon	Hannari
+BambooForest_2	迷途竹林-轻车熟路	シンデレラケージ ~ Kagome-Kagome	Hannari
+BambooForest_3	迷途竹林-欢欣狂舞	竹取飛翔 ~ Lunatic Princess / シンデレラケージ ~ Kagome-Kagome / 千年幻想郷 ~ History of the Moon	Hannari
+Hakugyokurou_1	白玉楼-四面楚歌	夜雀の歌声 ~ Night Bird / 妖々夢 ~ Snow or Cherry Petal / 幽霊楽団 ~ Phantom Ensemble	Hannari
+Hakugyokurou_2	白玉楼-明潮暗涌	幻視の夜 ~ Ghostly Eyes / 夜雀の歌声 ~ Night Bird / 幽雅に咲かせ、墨染の桜 ~ Border of Life / もう歌しか聞こえない	Hannari
+Hakugyokurou_3	白玉楼-一步之遥	夜雀の歌声 ~ Night Bird / 幽雅に咲かせ、墨染の桜 ~ Border of Life  / 幻視の夜 ~ Ghostly Eyes	Hannari
